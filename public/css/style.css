@@ -229,6 +229,8 @@
     align-items: center;
     padding: 0;
     margin-right: 20px;
+    font-family: "Inter";
+    font-weight: 600;
 }
 
 .navbar-light .navbar-nav .nav-item:hover,
@@ -976,7 +978,7 @@
 }
 
 .footer .footer-item p {
-    line-height: 35px;
+    line-height: 25px;
 }
 
 .footer .footer-item a:hover {
