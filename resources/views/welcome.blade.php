@@ -51,4 +51,6 @@
         </div>
     </div>
     <!-- Carousel End -->
+
+    @include('partial.about')
 @endsection
